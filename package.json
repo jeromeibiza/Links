@@ -1,0 +1,13 @@
+{
+  "name": "jeromeibiza-site",
+  "version": "1.0.0",
+  "description": "Linktree J\u00e9r\u00f4me avec dashboard et fond vid\u00e9o",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-basic-auth": "^1.2.0"
+  }
+}
